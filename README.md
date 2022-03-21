@@ -1,3 +1,7 @@
+**Fork of https://github.com/gfacciol/zotero_dataserver-docker**
+
+------------------------------
+
 **Look at https://github.com/SamuelHassine/zotero-prime which is more frequently maintained than this repo**
 
 ------------------------------
